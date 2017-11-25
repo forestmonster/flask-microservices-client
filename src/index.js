@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import axios from 'axios';
 
 class App extends Component {
-  constructor() {
+  constructor() { // eslint-disable-line no-useless-constructor
     super()
   }
   componentDidMount() {
