@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import axios from 'axios';
 import UsersList from './components/UsersList';
-import Adduser from './components/AddUser';
+import AddUser from './components/AddUser';
 
 class App extends Component {
   constructor() {
