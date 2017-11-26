@@ -20,12 +20,12 @@ const AddUser = (props) => {
           placeholder="Enter an e-mail address"
           required
         />
+      </div>
         <input
           type="submit"
           className="btn btn-primary btn-lg btn-block"
           value="Submit"
         />
-      </div>
     </form>
   )
 };
