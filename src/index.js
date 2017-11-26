@@ -4,7 +4,7 @@ import axios from 'axios';
 import UsersList from './components/UsersList';
 
 class App extends Component {
-  constructor() { // eslint-disable-line no-useless-constructor
+  constructor() {
     super()
     this.state = {
       users: []
