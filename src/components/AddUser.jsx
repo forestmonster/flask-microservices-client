@@ -12,7 +12,7 @@ const AddUser = (props) => {
           required
         />
       </div>
-      <div className="form-group>
+      <div className="form-group">
         <input
           name="email"
           className="form-control input-lg"
