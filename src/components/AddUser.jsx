@@ -25,6 +25,7 @@ const AddUser = (props) => {
           className="btn btn-primary btn-lg btn-block"
           value="Submit"
         />
+      </div>
     </form>
   )
 };
